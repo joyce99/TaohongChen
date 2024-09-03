@@ -6,7 +6,7 @@ This repository contains the implementation of Zero-Shot Learning with Visual-Se
 
 In this work, we develop the mutual reinforcement of visuals and semantics, which focuses more on the inconsistent transferable representations to achieve the complementation of two modals.
 
-![framework](images/framework.jpg)
+![framework](image/framework.jpg)
 
 ## Prerequisites
 
